@@ -330,6 +330,11 @@
     "enter_product_details": "أدخل معلومات المنتج الأساسية هنا",
     "confirm_submit": "تأكيد الحفظ",
     "are_you_sure_submit": "هل أنت متأكد أنك تريد حفظ هذا المنتج؟",
-    "submit": "تأكيد الحفظ"
+    "submit": "تأكيد الحفظ",
+    "add_first_product": "أضف أول منتج",
+    "no_categories_found": "لا توجد تصنيفات",
+    "no_reports_found": "لا توجد بلاغات",
+    "enter_name": "ادخل الاسم",
+    "enter_cause": "ادخل الوصف"
 
 } 
